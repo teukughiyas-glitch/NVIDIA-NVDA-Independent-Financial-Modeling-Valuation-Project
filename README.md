@@ -1,2 +1,20 @@
-# NVIDIA-NVDA-Independent-Financial-Modeling-Valuation-Project
-Built an integrated 3-statement financial model for NVIDIA (5 October 2026) with segment-level revenue forecasting, capital allocation schedules, DCF valuation, relative valuation cross-checks, scenario analysis, and WACC/terminal-growth sensitivity.
+# NVIDIA Financial Model & Valuation
+
+This project presents an independent financial model and valuation of NVIDIA.
+
+## Methodology
+- Revenue forecast by business segment
+- Three-statement financial model
+- Discounted Cash Flow (DCF)
+- WACC estimation
+- Scenario analysis
+- P/E and EV/EBITDA cross-check
+
+## Forecast Period
+FY2027–FY2030
+
+## Tools
+Microsoft Excel
+
+## Disclaimer
+This project is for educational and portfolio purposes only and does not constitute investment advice.
